@@ -1,0 +1,35 @@
+.content {
+    border: 2px rgb(0, 0, 0, 0.5) solid;
+    padding: 0px 10px 10px 10px;
+    width: 300px;
+    background-color: gray;
+    justify-items: center;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  
+}
+
+#btnReestablecer {
+    background-color: red;
+    color: whitesmoke;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+p {
+    background-color: black;
+    color: whitesmoke;
+    padding: 5px;
+}
+
+h1 {
+    display: flex;
+    background-color: brown;
+    width: 150px;
+    justify-content: center;
+}
